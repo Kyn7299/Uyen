@@ -1,4 +1,2 @@
 # Uyen
-hello
-hi xin chao
-da sua
+This is my world ^^
